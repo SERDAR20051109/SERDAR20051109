@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SERDAR20051109
+- 👋 Hi, I’m @SERDAR
 - 👀 I’m interested in learning programming languages
 - 🌱 I’m currently learning C / C# / Python
 - 💞️ I’m looking to collaborate on AI, automation and LLM problems 
